@@ -5,7 +5,6 @@ data*
 .vscode
 .idea
 *.json
-*.pickle
 .netrc
 log.txt
 authorized_chats.txt
